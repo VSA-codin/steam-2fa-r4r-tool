@@ -1,3 +1,5 @@
+> **PROJECT MOVED:** Steam Guard 2FA is now integrated into [VSA rep4rep-bot](https://github.com/VSA-codin/rep4rep-bot/tree/main/steam-2fa). This standalone repository is no longer maintained.
+
 # steam-2fa-r4r-tool
 
 Steam 2FA helper for **R4R-bot**. It enrolls Steam Guard Mobile, finishes interrupted enrollments, stores per-account 2FA secrets locally on a VPS, and generates Steam Guard codes for R4R-bot when Steam asks for `SteamGuardMobile`.
